@@ -1,0 +1,32 @@
+_repo: Gray-lensman_69584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Edward Elmer
+    - Smith, Doc
+    - Smith, Edward E.
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69584'
+language: en
+pgterms:marc905: 20220608144252smith
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Street & Smith Publications, Inc.,1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gray lensman
+url: http://www.gutenberg.org/ebooks/69584
